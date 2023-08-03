@@ -16,7 +16,7 @@ No notification will be sent outside of this application.
 If you have any questions or comments regarding this application or our privacy policy, please contact us at the following address.
 
 E-mail address raz0yuki@gmail.com
-Twitter @raz0yuki
+Twitter @PoopofDog
 
 4.Revision
 The privacy policy is subject to change.
@@ -45,7 +45,7 @@ Starchild プライバシーポリシー
 本アプリやプライバシーポリシーに関する、ご意見、ご質問等は以下にご連絡ください。
 
 メールアドレス raz0yuki@gmail.com
-Twitter @raz0yuki
+Twitter @PoopofDog
 
 4.改定
 プライバシーポリシーを変更する場合があります。
